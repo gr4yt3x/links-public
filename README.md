@@ -1,2 +1,6 @@
 # links-public
-Tech links | Look for Issues 
+
+You can find links in [#Issues](https://github.com/gr4yt3x/links-public/issues/)
+
+more tags to be added... and more links
+
